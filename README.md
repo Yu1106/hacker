@@ -74,5 +74,5 @@ Content-Security-Policy: script-src http://*.example.com game.com;
 SQL Injection
 - ![image](https://user-images.githubusercontent.com/52542210/117407637-68262f00-af41-11eb-9b29-6b976b322bb1.png)
 - SQL 註解 -- 後面的語法都不執行
-- ![image](https://user-images.githubusercontent.com/52542210/117407665-72e0c400-af41-11eb-8de7-287543a171a7.png)
+- ![image](https://user-images.githubusercontent.com/52542210/117408044-f6021a00-af41-11eb-8b61-31b99e03ce6d.png)
 
